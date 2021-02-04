@@ -19,7 +19,7 @@
 
 ## Methodology
 
-In the above code has three functions:
+The above code has three functions:
 - remove_stop_words
 - countvec 
 - cosine
