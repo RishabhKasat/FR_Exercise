@@ -31,7 +31,9 @@ In the above code has three functions:
 *cosine* : The function takes lists returned from countvec as input and computes the cosine similarity between them.
 ![image](https://user-images.githubusercontent.com/68875257/106953670-a3298400-6700-11eb-83f1-f5d0fdf66863.png)
 
+#### Why cosine similarity ?
+The cosine similarity is advantageous because even if the two similar documents are far apart by the Euclidean distance (due to the size of the document), chances are they may still be oriented closer together.
 
 ## Areas of improvement
 
-The code can be improved by using more comprehensive approach.If use of libraries were permited. I would have lemmatized the word to bring them to their root form and used algorithms like Latent Semantic Indexing or Latent Dirichlet Allocation to have a better algorithm for predicting similarity between sentences. Furthermore, Neural Networs can also be used .
+The code can be improved by using more comprehensive approach.If use of libraries were permited,I would have lemmatized the word to bring them to their root form and used algorithms like Latent Semantic Indexing or Latent Dirichlet Allocation to have a better algorithm for predicting similarity between sentences. Furthermore, Neural Networs can also be used .
