@@ -6,7 +6,8 @@
 
 ## How to run the file
 - Download the zip file from git 
-- Unzip the file in a folder and open CMD in the folder
+- Unzip the file in a folder 
+- Open command prompt and change the path to the file where the file from git was unzipped
 - Type python FR.py to in the command prompt to run the file
 - The code will ask to input the first sentences for comparison. Type in the sentence and hit enter
 - The code will further ask to input the second sentence. Type in the second sentence and hit enter
