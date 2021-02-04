@@ -11,7 +11,7 @@
 - The code will ask to input the first sentences for comparison. Type in the sentence and hit enter
 - The code will further ask to input the second sentence. Type in the second sentence and hit enter
 
-![image](https://user-images.githubusercontent.com/68875257/106952723-7cb71900-66ff-11eb-92c5-870c761a04f9.png)
+![image](https://user-images.githubusercontent.com/68875257/106952914-c1db4b00-66ff-11eb-9166-7ea48b7f505b.png)
 
 
 ## Result
