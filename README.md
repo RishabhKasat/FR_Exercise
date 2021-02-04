@@ -27,7 +27,7 @@ The above code has three functions:
 
 *remove_stop_words*  : The function takes text(sentence) as the input and returns a list of words after removes all the stopwords and special characters from the code
 
-*countvec*: The function takes two input- a list and a set. Set contains all the unique words from both the sentences. list contains the words from a single input sentence. The function generates a dictionary which contains the unique words from both the sentence as the key and vales as the count of the specific word in the list. The function returns a list which contains the count of each of the key(word) in a dictionary
+*countvec*: The function takes two input- a list and a set. Set contains all the unique words from both the sentences. list contains the words from a single input sentence. The function generates a dictionary which contains the unique words from both the sentence as the key and values as the count of the specific word in the list. The function returns a list which contains the count of each of the key(word) in a dictionary
 
 *cosine* : The function takes lists returned from countvec as input and computes the cosine similarity between them.
 ![image](https://user-images.githubusercontent.com/68875257/106953670-a3298400-6700-11eb-83f1-f5d0fdf66863.png)
