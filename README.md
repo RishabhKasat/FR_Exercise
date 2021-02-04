@@ -1,11 +1,13 @@
 # FR_Exercise
 
 ## Requirement 
-- Python3.5 or later version
+- Make sure the system is configured with Python3.8 or later version
+- If the system does not have Python 3.8 or a later version , same can be downloaded from python.org/downloads/. https://www.youtube.com/watch?v=UvcQlPZ8ecA the video provides step by step command to download Python 3.8
 
 ## How to run the file
-- Download the FR.py file
-- Double click to run the file
+- Download the zip file from git 
+- Unzip the file in a folder and open CMD in the folder
+- Type python FR.py to in the command prompt to run the file
 - The code will ask to input the first sentences for comparison. Type in the sentence and hit enter
 - The code will further ask to input the second sentence. Type in the second sentence and hit enter
 
