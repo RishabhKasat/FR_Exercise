@@ -11,6 +11,9 @@
 - The code will ask to input the first sentences for comparison. Type in the sentence and hit enter
 - The code will further ask to input the second sentence. Type in the second sentence and hit enter
 
+![image](https://user-images.githubusercontent.com/68875257/106952723-7cb71900-66ff-11eb-92c5-870c761a04f9.png)
+
+
 ## Result
 - The output is a numeric value with range between 0 and 1. 0 = No similarity , 1 = Exact Match
 
